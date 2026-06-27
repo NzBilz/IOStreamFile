@@ -1,0 +1,5 @@
+Laptop ASUS Vibe;8500000.0;5
+Mouse Wireless Logi;250000.0;15
+Keyboard Mekanik;450000.0;8
+Monitor 24 Inch;1750000.0;4
+Headset Gaming Rgb;350000.0;10
